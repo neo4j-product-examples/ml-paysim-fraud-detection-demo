@@ -1,6 +1,5 @@
 # Building a Graph Native ML Pipeline for detecting Money Mules
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neo4j-product-examples/demo-paysim-ml/PaySim_node_Classification_Demo.ipynb]
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neo4j-product-examples/demo-paysim-ml/blob/master/PaySim_Node_Classification_Demo.ipynb)
 
 ## The Dataset
 The dataset uses a synthetic p2p money network called [PaySim][1].
