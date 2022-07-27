@@ -20,6 +20,7 @@ you'll need the following pre-requisites:
 2. Ability to `pip install` packages.
 3. Connection details to a Neo4j AuraDS or Neo4j Enterprise server (with the
    GDS v2.1.x plugin installed).
+   - Make sure to update the notebook with your connection details!
 
 > The notebook _may_ work with Neo4j Community Edition, but it's untested.
 
